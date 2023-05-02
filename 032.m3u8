@@ -1,0 +1,8 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1, BANDWIDTH=3000000
+http://v2.siar.us/bmstv/livestream/chunks.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1, BANDWIDTH=3000000
+http://bmstv.onlivestreaming.net/bmstv/livestream/chunks.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1, BANDWIDTH=3000000
+http://video2.onlivestreaming.net/bmstv/livestream/chunks.m3u8
