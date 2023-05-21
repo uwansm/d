@@ -1,5 +1,0 @@
-#EXTM3U
-#EXT-X-STREAM-INF:PROGRAM-ID=1, BANDWIDTH=3000000
-https://5bf7b725107e5.streamlock.net/tegarjogja/tegarjogja/chunklist.m3u8
-#EXT-X-STREAM-INF:PROGRAM-ID=1, BANDWIDTH=3000000
-http://wms.klikhost.com:1935/tegarjogja/tegarjogja/chunklist.m3u8
