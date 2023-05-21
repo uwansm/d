@@ -1,5 +1,0 @@
-#EXTM3U
-#EXT-X-STREAM-INF:PROGRAM-ID=1, BANDWIDTH=3000000
-http://v3.siar.us/pontianaktelevisi/live/chunks.m3u8
-#EXT-X-STREAM-INF:PROGRAM-ID=1, BANDWIDTH=3000000
-http://122.248.43.138:1935/ch15/myStream/chunklist.m3u8
